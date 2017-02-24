@@ -3,7 +3,7 @@
   "description": "Description of your app",
   "launch_path": "/index.html",
   "icons": {
-    "128": "/img/logo.png"
+    "128": "/img/logo.ico"
   },
   "default_locale": "en",
   "type": "privileged"
